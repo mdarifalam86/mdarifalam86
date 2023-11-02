@@ -1,4 +1,4 @@
-[![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)](https://www.analyticsinsight.net/animating-data-visualization-bringing-analytics-to-life/)
+https://www.analyticsinsight.net/animating-data-visualization-bringing-analytics-to-life/
 <h1 align="center">Hi 👋, I'm MD ARIF ALAM</h1>
 <h3 align="center">Data Scientist from India</h3>
 
