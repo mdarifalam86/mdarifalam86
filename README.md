@@ -1,4 +1,4 @@
-![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2021/07/Animating-Data-VisualisationsBringing-Analytics-to-Life.jpg)
+![MasterHead](https://forum.huawei.com/enterprise/api/file/v1/small/thread/667284912320942080.gif?appid=esc_en)
 <h1 align="center">Hi 👋, I'm MD ARIF ALAM</h1>
 <h3 align="center">Data Scientist from India</h3>
 
