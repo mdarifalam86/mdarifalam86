@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Power BI,SQL,Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Power Bi**
 
 - 📫 How to reach me **arifalam86@gmail.com**
 
