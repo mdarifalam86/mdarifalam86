@@ -1,6 +1,6 @@
 ![MasterHead](https://forum.huawei.com/enterprise/api/file/v1/small/thread/667284912320942080.gif?appid=esc_en)
 <h1 align="center">Hi 👋, I'm MD ARIF ALAM</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center">Data Analytics from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankan-Misra-07&label=Profile%20views&color=0e75b6&style=flat" alt="anirban" /> </p>
